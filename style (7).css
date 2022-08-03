@@ -1,0 +1,100 @@
+
+*{
+    text-decoration: none;
+    list-style: none;
+}
+
+
+
+
+body {
+    font-family: sans-serif;
+    position: relative;
+    bottom: 0px;
+    padding-top: 200px;
+    background-color:#082032;
+    direction: rtl;
+}
+
+.hamz{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 20px;
+    text-decoration: none;
+    background-color:#343a40;
+    width: 99%;
+    border-radius: 0px 0px 60px 60px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:  -227px; 
+}
+
+.left{
+    margin-right: 1300px;
+    color:#fff;
+    background:fixed;
+    margin-top: 35px;
+    margin-bottom: 10px;
+}
+a{
+  color: #fff;
+}
+.screan{
+    margin-right: 900px;
+    margin-top: 50px;
+    border-radius:2px;
+}
+.one{
+  font-size: 30px;
+}
+.one1{
+    margin-right: 900px;
+    margin-top: -350px;
+}
+
+
+.screan2{
+    margin-right: 450px;
+    margin-top: 10px;
+    border-radius:2px;
+}
+.one{
+  font-size: 25px;
+}
+.one2{
+    margin-right: 450px;
+    margin-top: -350px;
+}
+
+.screan3{
+    margin-right: 5px;
+    margin-top: -305px;
+    border-radius:2px;
+}
+.one{
+  font-size: 25px;
+}
+.one3{
+    margin-right: 25px;
+    margin-top: -355px;
+}
+.text{
+    font-size: 35px;
+}
+.text1{
+    margin-top: 400px;
+  margin-right: 400px;
+}
+button{
+   margin-top: 50px;
+   padding-right: 5px;
+   padding-left: 5px;
+   padding-top: 7px;
+   padding-bottom: 7px;
+   font-size: 20px;
+   transition: 0.7s ease;
+}
+button:hover{
+    transform: scale(1.1);
+    opacity: 0.8;
+}
